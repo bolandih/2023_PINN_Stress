@@ -22,7 +22,7 @@ of stress distribution in almost real-time and can generalize better than the mo
 
 ![overview_fig_PINN](https://user-images.githubusercontent.com/78941477/234051535-3c2f4610-d4e6-4a0e-9634-2381f7cc268c.png)
 
-###  Comparisson of PINN-Stress(Physics Informed model) and NeuroStress(Non-Physics Informed Model)
+###  Comparisson of PINN-Stress (physics informed model) and NeuroStress (non-physics informed model)
 
 ![PINN-Neuro](https://user-images.githubusercontent.com/78941477/234069024-e308fb28-b5a4-44ae-94c9-6192b099f7d9.png)
 
