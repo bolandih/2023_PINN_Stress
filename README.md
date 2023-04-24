@@ -18,4 +18,7 @@ function to incorporate information from measurements and PDEs. The PINN-Stress 
 of stress distribution in almost real-time and can generalize better than the model without PINN.
 
 
+### Stress-PINN
+
+![overview_fig_PINN](https://user-images.githubusercontent.com/78941477/234051535-3c2f4610-d4e6-4a0e-9634-2381f7cc268c.png)
 
