@@ -1,1 +1,1 @@
-# Integrating Finite Element Analysis and Attention Transformer
+# 2023_Stress-PINN
