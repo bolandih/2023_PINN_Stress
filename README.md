@@ -2,7 +2,7 @@
 
 ## Physics Informed Neural Network for Dynamic Stress Prediction
 
-##### Code release for the paper: Physics Informed Neural Network for Dynamic Stress Prediction, preprint avilable on [arXiv](https://arxiv.org/abs/2211.16190)
+##### Code will be released upon paper acceptance: Physics Informed Neural Network for Dynamic Stress Prediction, preprint avilable on [arXiv](https://arxiv.org/abs/2211.16190)
 
 #### Authors: [Hamed Bolandi](https://bolandih.github.io/), Gautam Sreekumar, Xuyang Li, Nizar Lajnef, Vishnu Boddeti
 
